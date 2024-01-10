@@ -1,0 +1,8 @@
+.colaboradores {
+    border-radius: 50%;
+    width:170px;
+  }
+
+  :root {
+    --theme-hue: 325;
+  }
